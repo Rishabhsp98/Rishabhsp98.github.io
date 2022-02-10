@@ -11,6 +11,6 @@
   "license": "USICT",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
